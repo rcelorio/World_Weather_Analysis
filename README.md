@@ -1,15 +1,12 @@
 # PyBer_Analysis
-PyBer Analysis
+World Weather Analysis
 
 ## Objective 
-Determine if there is a correlation between the average fare and the total rides for each city type. Also, visualize total fares over time by city type. The goals for this challenge are:
+After a succesful pilot of the World Weather app we have received feedback from the testers. They would like a few features added to the app. Below is the new feature request:
 
-* Use Pandas functions like groupby, pivot, resample, and reset_index on a DataFrame.
-* Use Pandas methods and attributes on a DataFrame or Series.
-* Create a new DataFrame from multiple groupby() Series.
-* Format columns of a DataFrame.
-* Create a multiple-line graph.
-* Annotate and apply styling to the chart.
+* A weather description to the pop-up markers for customers so that they know what the weather is as they are traveling
+* A notation in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time
+* A map that shows the directions for customers’ travel itinerary
 
 ## Analysis
 ### Fare Analysis by City Type and Driver Count
