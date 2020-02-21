@@ -1,7 +1,7 @@
 # World Wide Weather
 
 ## Objective 
-Incorporate feedback from beta testers af an app that provides vacation spot and hotel recommendations. The testers would like us to add: 
+Incorporate feedback from beta testers of an app that provides vacation spot and hotel recommendations. The testers would like us to add: 
 * A weather description to the pop-up markers for customers so that they know what the weather is as they are traveling
 * A notation in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time
 * A map that shows the directions for customers’ travel itinerary
