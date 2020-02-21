@@ -1,15 +1,10 @@
-# PyBer_Analysis
-PyBer Analysis
+# World Wide Weather
 
 ## Objective 
-Determine if there is a correlation between the average fare and the total rides for each city type. Also, visualize total fares over time by city type. The goals for this challenge are:
-
-* Use Pandas functions like groupby, pivot, resample, and reset_index on a DataFrame.
-* Use Pandas methods and attributes on a DataFrame or Series.
-* Create a new DataFrame from multiple groupby() Series.
-* Format columns of a DataFrame.
-* Create a multiple-line graph.
-* Annotate and apply styling to the chart.
+Incorporate feedback from beta testers af an app that provides vacation spot and hotel recommendations. The testers would like us to add: 
+* A weather description to the pop-up markers for customers so that they know what the weather is as they are traveling
+* A notation in the search criteria to indicate if it is raining or snowing for customers who are making travel decisions in real-time
+* A map that shows the directions for customers’ travel itinerary
 
 ## Assets
 ### Jupyter notebok code for Parts 1, 2, and 3 of the challenge:
